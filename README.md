@@ -1,2 +1,2 @@
 # beginnerDev
-This is where I started webDev
+This is where I started web deveoplment.
